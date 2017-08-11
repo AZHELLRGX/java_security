@@ -1,6 +1,5 @@
 package edu.ctgu.base64;
 
-import org.bouncycastle.util.encoders.Base64Encoder;
 
 /**
  * @author AZHELL E-mail:r776379772@Gmail.com
@@ -14,6 +13,6 @@ public class Base64Test {
 		
 	}
 	public void jdkBase64(){
-		Base64Encoder encoder = new Base64Encoder();
+		// 测试eclipse mars的提交方式是否可用
 	}
 }
